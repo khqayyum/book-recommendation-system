@@ -159,6 +159,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ## Author
-**Ahmad Ishaque Karimi**  
+**Abdul Qayyum Khan**  
 Master's Student, Arizona State University  
-Feel free to connect via [LinkedIn](https://linkedin.com/in/ahmadishaquekarimi/) or explore more projects on [GitHub](https://github.com/Ahmadishaque).
+
